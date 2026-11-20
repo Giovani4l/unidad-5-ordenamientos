@@ -1,0 +1,2 @@
+Unidad 5: 42 filas verificadas por clic en WinForms y panel secundario probado.
+PNG: render del formulario ejecutado mediante DrawToBitmap.

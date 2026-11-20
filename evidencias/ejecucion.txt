@@ -1,0 +1,66 @@
+Verificados 280 pares método/entrada: orden, conservación y estabilidad donde aplica.
+Microsoft Windows 10.0.19045 | .NET 10.0.12 | X64
+ 10000  Aleatorio  Burbuja         CPU=   46.8750 ms; reloj=   45.3582 ms
+ 10000  Aleatorio  Quicksort       CPU=    0.0000 ms; reloj=    0.6483 ms
+ 10000  Aleatorio  ShellSort       CPU=    0.0000 ms; reloj=    0.7203 ms
+ 10000  Aleatorio  Radix           CPU=    0.0000 ms; reloj=    0.0886 ms
+ 10000  Aleatorio  Intercalacion   CPU=    0.0000 ms; reloj=    2.7037 ms
+ 10000  Aleatorio  MezclaDirecta   CPU=   15.6250 ms; reloj=   29.0785 ms
+ 10000  Aleatorio  MezclaNatural   CPU=   15.6250 ms; reloj=   28.6920 ms
+ 10000  Ordenado   Burbuja         CPU=    0.0000 ms; reloj=    0.0158 ms
+ 10000  Ordenado   Quicksort       CPU=    0.0000 ms; reloj=    0.1814 ms
+ 10000  Ordenado   ShellSort       CPU=    0.0000 ms; reloj=    0.0860 ms
+ 10000  Ordenado   Radix           CPU=    0.0000 ms; reloj=    0.0797 ms
+ 10000  Ordenado   Intercalacion   CPU=    0.0000 ms; reloj=    3.1098 ms
+ 10000  Ordenado   MezclaDirecta   CPU=   15.6250 ms; reloj=   25.7366 ms
+ 10000  Ordenado   MezclaNatural   CPU=    0.0000 ms; reloj=    1.0420 ms
+ 10000  Inverso    Burbuja         CPU=   46.8750 ms; reloj=   50.5829 ms
+ 10000  Inverso    Quicksort       CPU=    0.0000 ms; reloj=    0.2161 ms
+ 10000  Inverso    ShellSort       CPU=    0.0000 ms; reloj=    0.1395 ms
+ 10000  Inverso    Radix           CPU=    0.0000 ms; reloj=    0.0903 ms
+ 10000  Inverso    Intercalacion   CPU=    0.0000 ms; reloj=    3.3054 ms
+ 10000  Inverso    MezclaDirecta   CPU=   15.6250 ms; reloj=   27.6894 ms
+ 10000  Inverso    MezclaNatural   CPU=   31.2500 ms; reloj=   26.4388 ms
+ 50000  Aleatorio  Burbuja         CPU= 2937.5000 ms; reloj= 2953.7020 ms
+ 50000  Aleatorio  Quicksort       CPU=    0.0000 ms; reloj=    4.4150 ms
+ 50000  Aleatorio  ShellSort       CPU=    0.0000 ms; reloj=    4.5760 ms
+ 50000  Aleatorio  Radix           CPU=    0.0000 ms; reloj=    0.5345 ms
+ 50000  Aleatorio  Intercalacion   CPU=   15.6250 ms; reloj=   14.4199 ms
+ 50000  Aleatorio  MezclaDirecta   CPU=   78.1250 ms; reloj=   89.0693 ms
+ 50000  Aleatorio  MezclaNatural   CPU=   78.1250 ms; reloj=   81.5587 ms
+ 50000  Ordenado   Burbuja         CPU=    0.0000 ms; reloj=    0.0354 ms
+ 50000  Ordenado   Quicksort       CPU=    0.0000 ms; reloj=    1.1101 ms
+ 50000  Ordenado   ShellSort       CPU=    0.0000 ms; reloj=    0.3934 ms
+ 50000  Ordenado   Radix           CPU=    0.0000 ms; reloj=    0.3745 ms
+ 50000  Ordenado   Intercalacion   CPU=   15.6250 ms; reloj=   13.9991 ms
+ 50000  Ordenado   MezclaDirecta   CPU=   93.7500 ms; reloj=   89.7150 ms
+ 50000  Ordenado   MezclaNatural   CPU=    0.0000 ms; reloj=    3.1751 ms
+ 50000  Inverso    Burbuja         CPU= 1234.3750 ms; reloj= 1247.9752 ms
+ 50000  Inverso    Quicksort       CPU=    0.0000 ms; reloj=    1.0245 ms
+ 50000  Inverso    ShellSort       CPU=    0.0000 ms; reloj=    0.6655 ms
+ 50000  Inverso    Radix           CPU=    0.0000 ms; reloj=    0.4538 ms
+ 50000  Inverso    Intercalacion   CPU=   15.6250 ms; reloj=   12.9763 ms
+ 50000  Inverso    MezclaDirecta   CPU=   78.1250 ms; reloj=   85.2077 ms
+ 50000  Inverso    MezclaNatural   CPU=   78.1250 ms; reloj=   83.6760 ms
+100000  Aleatorio  Burbuja         CPU=12625.0000 ms; reloj=12742.2039 ms
+100000  Aleatorio  Quicksort       CPU=    0.0000 ms; reloj=    7.8512 ms
+100000  Aleatorio  ShellSort       CPU=   15.6250 ms; reloj=   10.0242 ms
+100000  Aleatorio  Radix           CPU=    0.0000 ms; reloj=    0.8931 ms
+100000  Aleatorio  Intercalacion   CPU=   31.2500 ms; reloj=   27.5430 ms
+100000  Aleatorio  MezclaDirecta   CPU=  156.2500 ms; reloj=  163.3278 ms
+100000  Aleatorio  MezclaNatural   CPU=  140.6250 ms; reloj=  154.6878 ms
+100000  Ordenado   Burbuja         CPU=    0.0000 ms; reloj=    0.0697 ms
+100000  Ordenado   Quicksort       CPU=    0.0000 ms; reloj=    2.3054 ms
+100000  Ordenado   ShellSort       CPU=    0.0000 ms; reloj=    0.9435 ms
+100000  Ordenado   Radix           CPU=    0.0000 ms; reloj=    0.7891 ms
+100000  Ordenado   Intercalacion   CPU=   15.6250 ms; reloj=   25.5321 ms
+100000  Ordenado   MezclaDirecta   CPU=  171.8750 ms; reloj=  160.2258 ms
+100000  Ordenado   MezclaNatural   CPU=    0.0000 ms; reloj=    4.4158 ms
+100000  Inverso    Burbuja         CPU= 5109.3750 ms; reloj= 5332.1264 ms
+100000  Inverso    Quicksort       CPU=    0.0000 ms; reloj=    2.3689 ms
+100000  Inverso    ShellSort       CPU=    0.0000 ms; reloj=    1.7991 ms
+100000  Inverso    Radix           CPU=    0.0000 ms; reloj=    0.8002 ms
+100000  Inverso    Intercalacion   CPU=   46.8750 ms; reloj=   52.6541 ms
+100000  Inverso    MezclaDirecta   CPU=  218.7500 ms; reloj=  227.1324 ms
+100000  Inverso    MezclaNatural   CPU=  234.3750 ms; reloj=  236.5018 ms
+63 combinaciones, cada una validada en sus 3 muestras. Duración del banco: 73.68 s.

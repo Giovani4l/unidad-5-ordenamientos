@@ -1,0 +1,11 @@
+  Determinando los proyectos que se van a restaurar...
+  Todos los proyectos están actualizados para la restauración.
+  Algoritmos.Core -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\u5-final\bin\Algoritmos.Core\release\Algoritmos.Core.dll
+  Laboratorio.Forms -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\u5-final\bin\Laboratorio.Forms\release\Laboratorio.Forms.dll
+  Verificaciones -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\u5-final\bin\Verificaciones\release\Verificaciones.dll
+
+Compilación correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:07.54
